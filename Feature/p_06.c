@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 void p_06(void) {
     int s3 = 0;
     int sn4 = 0;
@@ -27,3 +25,4 @@ void p_06(void) {
         printf("s3 == sn4 | 0\n");
     }
 }
+

@@ -13,6 +13,7 @@ void p_10(void) {
         int n7 = isprint(i);
         int n8 = isspace(i);
 
-        printf("0x%02X \t%c \t%d \t%d \t%d \t%d \t%d \t%d \t%d \t%d\n", int16, i, n1, n2, n3, n4, n5, n6, n7, n8);
+        printf("0x%02X \t%c \t%d \t%d \t%d \t%d \t%d \t%d \t%d \t%d\n",
+            int16, i, n1, n2, n3, n4, n5, n6, n7, n8);
     }
 }
